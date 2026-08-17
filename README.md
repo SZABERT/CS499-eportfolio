@@ -1,4 +1,4 @@
-Welcome to my CS 499 ePorfolio
+Welcome to my CS 499 ePortfolio
 
 # Robert Szabo
 ## Professional Self Assessment
@@ -29,4 +29,12 @@ To demonstrate the full range of my computer science abilities, the artifacts fo
 * **Algorithms and Data Structures:** I replaced the rigid map logic with a Graph data structure and implemented a Breadth First Search algorithm to power a dynamic pathfinding feature.
 * **Databases:** I replaced the local memory state management with a secure MongoDB backend, utilizing regular expressions to sanitize user inputs and safely store player progress.
 
-
+## Links to Artifacts and Narratives
+* [Watch my Code Review Video](https://youtu.be/4ZG1t6ynCas).
+* [Original Dracula Procedural Script](https://github.com/SZABERT/CS499-eportfolio/blob/main/Dracula_Text_Based_Game.py)
+* [Enhanced Dracula MVC Script](https://github.com/SZABERT/CS499-eportfolio/blob/main/Dracula_MVC_Refactor.py).
+* [Enhanced Dracula MVC, BFS Script](https://github.com/SZABERT/CS499-eportfolio/blob/main/Dracula_MVC_Refactor_Algorithms_and_Data_Structures).
+* [Enhanced Dracula MVC, BFS, MongoDB Final Script](https://github.com/SZABERT/CS499-eportfolio/blob/main/Dracula_MVC_Refactor_Databases).
+* [Milestone Two: Software Design Narrative](https://github.com/SZABERT/CS499-eportfolio/blob/main/Milestone%202%20Narrative.docx).
+* [Milestone Three: Algorithms and Data Structures Narrative](https://github.com/SZABERT/CS499-eportfolio/blob/main/Milestone%203%20Narrative.docx).
+* [Milestone Four: Databases Narrative](https://github.com/SZABERT/CS499-eportfolio/blob/main/Milestone%204%20Narrative.docx).
