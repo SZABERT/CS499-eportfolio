@@ -35,6 +35,6 @@ To demonstrate the full range of my computer science abilities, the artifacts fo
 * [Enhanced Dracula MVC Script](https://github.com/SZABERT/CS499-eportfolio/blob/main/Dracula_MVC_Refactor.py).
 * [Enhanced Dracula MVC, BFS Script](https://github.com/SZABERT/CS499-eportfolio/blob/main/Dracula_MVC_Refactor_Algorithms_and_Data_Structures).
 * [Enhanced Dracula MVC, BFS, MongoDB Final Script](https://github.com/SZABERT/CS499-eportfolio/blob/main/Dracula_MVC_Refactor_Databases).
-* [Milestone Two: Software Design Narrative](https://github.com/SZABERT/CS499-eportfolio/blob/main/Milestone%202%20Narrative.docx).
-* [Milestone Three: Algorithms and Data Structures Narrative](https://github.com/SZABERT/CS499-eportfolio/blob/main/Milestone%203%20Narrative.docx).
-* [Milestone Four: Databases Narrative](https://github.com/SZABERT/CS499-eportfolio/blob/main/Milestone%204%20Narrative.docx).
+* [Milestone Two: Software Design Narrative](https://github.com/SZABERT/CS499-eportfolio/blob/main/Milestone_2_Narrative.docx).
+* [Milestone Three: Algorithms and Data Structures Narrative](https://github.com/SZABERT/CS499-eportfolio/blob/main/Milestone_3_Narrative.docx).
+* [Milestone Four: Databases Narrative](https://github.com/SZABERT/CS499-eportfolio/blob/main/Milestone_4_Narrative.docx).
